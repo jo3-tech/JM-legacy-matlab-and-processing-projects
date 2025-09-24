@@ -1,4 +1,4 @@
-# Legacy LEGO MATLAB and Processing Projects
+# Legacy MATLAB and Processing Projects
 
 Legacy projects written in [MATLAB](https://www.mathworks.com/products/matlab.html) and [Processing](https://processing.org); a language built on Java. When these projects were developed, the Processing language had a framework for developing desktop Java applications (Processing Java) and mobile phone Android applications (Processing Android).
 
@@ -68,7 +68,7 @@ NOTE: The webcam Android-server/desktop-client applications were called "Wo Webc
 
 In this project, colours are automatically designated specific numbers by the program to attempt to make it easy to define common colours:
 
-roygbiv: red = 1, orange = 2, yellow = 3, green = 4, blue = 5, indigo (voilet, purple) = 6, any other colour = 7
+roygbiv: red = 1, orange = 2, yellow = 3, green = 4, blue = 5, indigo (violet, purple) = 6, any other colour = 7
 
 ### object-tracking-using-colour
 
