@@ -6,7 +6,7 @@ This repository is a collection of legacy projects (created between 2008 and 201
 
 Similar to the aforementioned repository, these projects were early-stage prototypes and were never fully finalised. All code, documentation, and descriptions were originally written over a decade ago and have been copied here with only minor modification. As such, they may lack polish, clarity, or completeness, and do not reflect current best practices.
 
-Android installation package (.apk) files for the [look-closely-android](look-closely-android) and [NXTcam-android](NXTcam-android) projects can be found in the [builds](builds) folder, and (at the time of writing) are still installable and usable on the latest version of Android.
+Android installation package (.apk) files for the [look-closely-android](look-closely-android) and [NXTcam-android](nxtcam-android) projects can be found in the [builds](builds) folder, and (at the time of writing) are still installable and usable on the latest version of Android.
 
 ## look-closely
 
@@ -38,11 +38,11 @@ Background theory: Colour definition is performed in the RGB (Red, green, blue) 
 
 ### NXTcam-android
 
-The [Android version](NXTcam-android)
+The [Android version](nxtcam-android)
 
 ### NXTcam-java
 
-The [desktop/Java version](NXTcam-java)
+The [desktop/Java version](nxtcam-java)
 
 ## NXTcamCD-java
 
@@ -50,7 +50,7 @@ The [desktop/Java version](NXTcam-java)
 
 Note: The web page (nxtcam.blogspot.co.uk) shown in the image is no longer operational.
 
-[This project](NXTcamCD-java) is written in the Processing (Java) language. It is a counterpart project to NXTcam. The "CD" in the name stands for "Colour Definition". The aim was to provide a utility application for defining a colour using the HSV (Hue, Saturation, Value) colour space. It works by providing the user with a tool to capture an image using a webcam (built-in or external), allowing the user to highlight a region of interest, and then performing an analysis to extract and identify the colour in the region using HSV values. The HSV value can then be entered into the NXTcam application to specify which colour to track. The application provides a fourth value; the threshold. This controls the sensitivity of the colour identification and tracking process, and can be experimented with to get the best tracking results under different lighting conditions.
+[This project](nxtcamcd-java) is written in the Processing (Java) language. It is a counterpart project to NXTcam. The "CD" in the name stands for "Colour Definition". The aim was to provide a utility application for defining a colour using the HSV (Hue, Saturation, Value) colour space. It works by providing the user with a tool to capture an image using a webcam (built-in or external), allowing the user to highlight a region of interest, and then performing an analysis to extract and identify the colour in the region using HSV values. The HSV value can then be entered into the NXTcam application to specify which colour to track. The application provides a fourth value; the threshold. This controls the sensitivity of the colour identification and tracking process, and can be experimented with to get the best tracking results under different lighting conditions.
 
 ## object-tracking
 
