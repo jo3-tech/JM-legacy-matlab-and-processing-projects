@@ -6,7 +6,7 @@ This repository is a collection of legacy projects (created between 2008 and 201
 
 Similar to the aforementioned repository, these projects were early-stage prototypes and were never fully finalised. All code, documentation, and descriptions were originally written over a decade ago and have been copied here with only minor modification. As such, they may lack polish, clarity, or completeness, and do not reflect current best practices.
 
-Android installation package (.apk) files for the [look-closely-android](look-closely-android) and [NXTcam-android](nxtcam-android) projects can be found in the [builds](builds) folder, and (at the time of writing) are still installable and usable on the latest version of Android.
+Android installation package (.apk) files for the [look-closely-android](look-closely-android) and [NXTcam-android](nxtcam-android) projects can be found in the [builds](builds) folder, and are still installable and usable on the latest version of Android (Android 15 at the time of writing).
 
 ## look-closely
 
